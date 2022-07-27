@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974295265633",
+    "project_id": "moneyshare-f6562",
+    "storage_bucket": "moneyshare-f6562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974295265633:android:8a7a498c7867ba1f961520",
+        "android_client_info": {
+          "package_name": "com.example.moneyshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974295265633-tho3d9996inmmvoetolbaaoon5ctb9mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneyshare",
+            "certificate_hash": "a08151c530dca73f2ae1723f76b4717e190ccc0d"
+          }
+        },
+        {
+          "client_id": "974295265633-dkpqcunlo8dgavuna1m1deh121a7lhgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7YsSFx2PqqvoeSNTgh0S6rT_4kOiNNiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974295265633-dkpqcunlo8dgavuna1m1deh121a7lhgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

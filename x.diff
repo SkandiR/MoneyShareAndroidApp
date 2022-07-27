@@ -1,0 +1,26 @@
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+index fe4f6bb..e1616c2 100644
+--- a/.idea/misc.xml
++++ b/.idea/misc.xml
+@@ -28,7 +28,7 @@
+       </map>
+     </option>
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/build/classes" />
+   </component>
+   <component name="ProjectType">
+diff --git a/app/src/main/java/com/example/moneyshare/LoginActivity.java b/app/src/main/java/com/example/moneyshare/LoginActivity.java
+index 8b0bf0f..d324117 100644
+--- a/app/src/main/java/com/example/moneyshare/LoginActivity.java
++++ b/app/src/main/java/com/example/moneyshare/LoginActivity.java
+@@ -147,7 +147,7 @@ public class LoginActivity extends AppCompatActivity implements
+ 
+             @Override
+             public void onVerificationFailed(FirebaseException e) {
+-                Log.w(TAG, "onVerificationFailed", e);
++                Log.e(TAG, "onVerificationFailed", e);
+                 mVerificationInProgress = false;
+                 if (e instanceof FirebaseAuthInvalidCredentialsException) {
+                     mPhoneNumberField.setError("Invalid phone number.");

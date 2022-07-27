@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">48dp</dimen>
+    <dimen name="login_margin">3dp</dimen>
+    <dimen name="button_seperator">0dp</dimen>
+    <dimen name="verify_input">2dp</dimen>
+    <dimen name="login_input_margin">2dp</dimen>
+    <dimen name="button_gaps">5dp</dimen>
+</resources>

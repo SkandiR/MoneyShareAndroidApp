@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/drawable/gradient_for_home_fragment_buttons.xml" value="0.1035" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/drawable/progressbar_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/drawable/side_nav_bar.xml" value="0.1035" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/activity_add_money.xml" value="0.11911231884057971" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/activity_borrow_request.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/activity_edit_profile.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/activity_lend_request.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/activity_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/activity_main.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/app_bar_main.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/borrow_order_executed_rc_view_model.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/borrow_order_placed_rc_view_model.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/borrow_order_placed_rc_vire_model.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/borrow_request_input_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/fragment_borrow_order_executed.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/fragment_borrow_order_placed.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/fragment_borrowed.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/fragment_lend_order_executed.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/fragment_lend_order_placed.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/fragment_lent.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/fragment_slideshow.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/lend_completed_rc_view_model.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/lend_order_executed_rc_view_model.xml" value="0.22" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/lend_order_interested_list_view.xml" value="0.22" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/lend_order_placed_rc_view_model.xml" value="0.22" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/layout/pager_utility_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/menu/activity_main_drawer.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/menu/main.xml" value="0.1640625" />
+        <entry key="..\:/Users/Shaik Nazeer/AndroidStudioProjects/MoneyShare/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Users/sathv/StudioProjects/MoneyShare/app/src/main/res/layout/activity_add_money.xml" value="0.1046875" />
+        <entry key="..\:/Users/sathv/StudioProjects/MoneyShare/app/src/main/res/layout/content_main.xml" value="0.1046875" />
+        <entry key="..\:/Users/sathv/StudioProjects/MoneyShare/app/src/main/res/layout/fragment_lend_order_placed.xml" value="0.1046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

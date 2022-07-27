@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/edit_profile_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update Profile Information"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#000"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/black"
+
+        app:boxBackgroundColor="@android:color/transparent"
+        android:background="@android:color/transparent"
+        android:layout_margin="10dp"
+        android:layout_below="@id/edit_profile_heading"
+        android:padding="25dp"
+        app:hintTextAppearance="@style/TextLabel"
+        android:id="@+id/user_name_input_layout">
+        <EditText android:id="@+id/user_name_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="User Name"
+            android:textColorHint="#3A2929"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:padding="15dp"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/black"
+
+        app:boxBackgroundColor="@android:color/transparent"
+        android:background="@android:color/transparent"
+        android:layout_margin="10dp"
+        android:layout_below="@id/user_name_input_layout"
+        android:padding="25dp"
+        app:hintTextAppearance="@style/TextLabel"
+        android:id="@+id/user_dob_input_layout">
+        <EditText android:id="@+id/user_credit_score_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="date"
+            android:hint="Credit score"
+            android:textColorHint="#3A2929"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:padding="15dp"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/black"
+
+        app:boxBackgroundColor="@android:color/transparent"
+        android:background="@android:color/transparent"
+        android:layout_margin="10dp"
+        android:layout_below="@id/user_dob_input_layout"
+        android:padding="25dp"
+        app:hintTextAppearance="@style/TextLabel"
+        android:id="@+id/user_ssn_input_layout">
+        <EditText android:id="@+id/user_ssn_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="SSN"
+            android:textColorHint="#3A2929"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:padding="15dp"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:id="@+id/button_save_profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Save Profile"
+        android:theme="@style/ThemeOverlay.MyDarkButton"
+        android:layout_alignParentBottom="true"/>
+
+
+</RelativeLayout>
